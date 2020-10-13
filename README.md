@@ -9,8 +9,12 @@ Here are the technologies used in the project.
 * Prismic
 
 ## How to use
-### on the main screen, the user will be able to access his social network through links, Facebook, Instagram, Linkedin and also his GitHub if he has one. In addition, the source code of the application can be viewed using the link available at the bottom of the page.
+### 1 - On the main screen, the user will be able to access his social network through links, Facebook, Instagram, Linkedin and also his GitHub if he has one. In addition, the source code of the application can be viewed using the link available at the bottom of the page.
 ![Main screen](https://github.com/Math3usGS/SocialLinks/blob/main/assets/pagina_principal.PNG)
+
+### 2 - To run the application just type the command "npm run dev" in the Visual Studio Code terminal.
+![Main screen](https://github.com/Math3usGS/SocialLinks/blob/main/assets/rodar_codigo.PNG)
+
 
 ## Features
   - Social network links
@@ -23,7 +27,6 @@ Here are the technologies used in the project.
 
 * **Matheus Gonçalves de Souza**: @Math3usGS (https://github.com/Math3usGS)
 
-Please follow github and join us!
 Thanks to visiting me and take care!
 
 
