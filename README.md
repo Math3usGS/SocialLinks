@@ -12,7 +12,7 @@ Here are the technologies used in the project.
 ### 1 - On the main screen, the user will be able to access his social network through links, Facebook, Instagram, Linkedin and also his GitHub if he has one. In addition, the source code of the application can be viewed using the link available at the bottom of the page.
 ![Main screen](https://github.com/Math3usGS/SocialLinks/blob/main/assets/pagina_principal.PNG)
 
-### 2 - To run the application just type the command "npm run dev" in the Visual Studio Code terminal. A local server will be created and this is where the application will run. Just copy the line https://localhost/port and paste into your browser.
+### 2 - To run the application just type the command "npm run dev" in the Visual Studio Code terminal. A local server will be created and this is where the application will run. Just copy the line http://localhost:port and paste into your browser.
 ![Main screen](https://github.com/Math3usGS/SocialLinks/blob/main/assets/rodar_codigo.PNG)
 
 
